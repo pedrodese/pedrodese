@@ -15,16 +15,20 @@
 
 <h3 align="center">🛠️ Linguagens e Ferramentas:</h3>
 <p align="center">
-  <!-- Badges com gradientes e animações para cada tecnologia -->
-  <img src="https://img.shields.io/badge/AWS-20232A.svg?&style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000000&color=gradient" alt="AWS"/>
+  <!-- Badges para cada tecnologia -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <!-- Adicione mais badges conforme necessário -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/AWS-20232A.svg?&style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000000&color=gradient" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodese&show_icons=true&locale=en&layout=compact" alt="pedrodese" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodese&show_icons=true&locale=en&layout=compact&langs_count=10&hide=c%23" alt="pedrodese" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodese&show_icons=true&locale=en" alt="pedrodese" />
 </p>
 
@@ -32,7 +36,7 @@
 <p align="center">
   Sou um desenvolvedor back-end com uma forte paixão por construir aplicações escaláveis e eficientes. 🚀<br>
   Nos meus projetos, eu busco sempre aprender e aplicar novas tecnologias para melhorar a qualidade e a performance das soluções. 🌐<br>
-  No meu tempo livre, gosto de pescar, sair com os amigos e viajar <br>
+  No meu tempo livre, gosto de pescar, sair com os amigos e viajar. <br>
 </p>
 
 <p align="center">
