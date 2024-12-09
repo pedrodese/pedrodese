@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodese&show_icons=true&locale=en&layout=compact&langs_count=10&hide=c%23" alt="pedrodese" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodese&show_icons=true&locale=en&layout=compact&langs_count=10&hide=c%23,html,css" alt="pedrodese" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodese&show_icons=true&locale=en" alt="pedrodese" />
 </p>
 
